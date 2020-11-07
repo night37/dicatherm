@@ -1,0 +1,117 @@
+body{
+
+    font-family: Roboto;
+}
+.ftco-navbar-light.scrolled {
+    background: #cdd0d1cf !important;
+}
+
+.logo{
+    height: 70px;
+    margin-left:40%;
+}
+.header-row{
+    width: 100%;
+    justify-content: space-between;
+
+}
+.hero-wrap{
+    background-image: url("../images/Site/hero-picture.jpg");
+
+}
+
+.maisonbbcimg{
+    height: 20;
+}
+.slider-text p {
+    margin-top: 150px;
+}
+.ftco-counter .counter-wrap {
+    background: transparent;
+    padding: 3em 0;
+    position: relative;
+}
+.experience{
+    padding-top: 3%;
+    text-align: center;
+    font-size: 18px;
+}
+.veritas-text {
+    /* padding-top: 25%; */
+    text-align: center;
+    font-size: 18px;
+}
+.qualibat-text{
+    /* padding-top: 25%; */
+    text-align: center;
+    font-size: 18px;
+}
+.logo-veritas{
+    height: 100%;
+    width: 100%;
+}
+.logo-qualibat{
+    height: 74%;
+    width: 74%;
+}
+.logo-rt2012{
+    height: 80%;
+    width: 80%;
+
+}
+.DPE {
+    margin-top:70px; 
+}
+.flux{
+    margin-top:88px; 
+    padding-left: 5%;
+}
+.Presta-logo-rt2012{
+    margin-top: 99px;
+    margin-left: 45px;
+    height: 40%;
+    width: 60%;
+}
+
+.ftco-services .nav-link-wrap{
+    background: #1eadda !important;
+}
+.tab-content > .active {
+    display: block;
+    background-color: #cdd0d1;
+}
+
+.thermo{
+    padding-top: 69%;
+    width: 100%;
+    height:auto;
+    padding-left: 6px;
+}
+
+.skills-container{
+    /* background: #fff !important;
+    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1); */
+    background: linear-gradient(0deg, rgba(238,238,238,1) 0%, rgba(250,250,250,1) 50%, rgba(238,238,238,1) 97%);
+    background-color: #eeee;
+    padding: 0 15px;
+}
+
+
+.ftco-counter .ftco-counter-wrap {
+    margin: 0;
+    padding: 0;
+}
+.ftco-counter .counter-wrap:nth-child(even) {
+    background: transparent;
+}
+.skill{
+    padding-left: 5px !important;
+    padding-right: 98px !important;
+} 
+.ftco-navbar-light .navbar-nav > .nav-item > .nav-link span:before {
+    background: #1196d2;
+}
+a{
+    color:#666167;
+}
