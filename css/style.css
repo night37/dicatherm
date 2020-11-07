@@ -8963,9 +8963,7 @@ textarea.form-control {
   width: 100px;
   height: 100px;
   margin: 0 auto;
-  /* background: #f2f2f2; */
   z-index: -1;
-  margin-bottom: 10px;}
 
   .ftco-counter .icon span {
     font-size: 40px;
@@ -8979,7 +8977,6 @@ textarea.form-control {
     .ftco-counter .counter-wrap {
       padding-bottom: 7em; } }
   .ftco-counter .counter-wrap:nth-child(even) {
-    /* background: #f2f2f2; */
     }
     .ftco-counter .counter-wrap:nth-child(even) .icon {
       background: white; }

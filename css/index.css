@@ -1,6 +1,6 @@
 body{
 
-    font-family: Roboto;
+    font-family: Roboto !important;
 }
 .ftco-navbar-light.scrolled {
     background: #cdd0d1cf !important;
@@ -26,7 +26,7 @@ body{
 .slider-text p {
     margin-top: 150px;
 }
-.ftco-counter .counter-wrap {
+.about-container .counter-wrap {
     background: transparent;
     padding: 3em 0;
     position: relative;
@@ -47,16 +47,13 @@ body{
     font-size: 18px;
 }
 .logo-veritas{
-    height: 100%;
-    width: 100%;
+    width: 80%;
 }
 .logo-qualibat{
-    height: 74%;
-    width: 74%;
+    width: 50%;
 }
 .logo-rt2012{
-    height: 80%;
-    width: 80%;
+    width: 50%;
 
 }
 .DPE {
@@ -98,20 +95,27 @@ body{
 }
 
 
-.ftco-counter .ftco-counter-wrap {
+.about-container .about-container-wrap {
     margin: 0;
     padding: 0;
 }
-.ftco-counter .counter-wrap:nth-child(even) {
-    background: transparent;
-}
+
 .skill{
-    padding-left: 5px !important;
-    padding-right: 98px !important;
+    padding-top: 1em !important;
+    padding-bottom: 1em !important;
+
 } 
 .ftco-navbar-light .navbar-nav > .nav-item > .nav-link span:before {
     background: #1196d2;
 }
 a{
     color:#666167;
+}
+.about{
+    text-align:justify !important;
+    margin-top:1em;
+    margin-bottom: -15px;
+}
+.about-title{
+    margin-top: 1em;
 }
